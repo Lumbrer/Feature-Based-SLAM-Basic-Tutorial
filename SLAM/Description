@@ -1,0 +1,11 @@
+ Feature Based Simultaneous Localisation And Mapping
+ 
+ On this scripts the goal is to simultaneously localise a moving robot and map the environment of discrete landmarks or obstacles that
+ surround it. Here uncertainty is added at each step based on the motion of the robot leading to errors in the estimation of its new position
+ and the errors caused by the sensors used to detect the surrounding obstacles. 
+ 
+ Within the repository this section is:
+ 
+ - [x] Localisation Only
+ - [ ] Mapping Only
+ - [ ] Simultaneous Localisation and Mapping
