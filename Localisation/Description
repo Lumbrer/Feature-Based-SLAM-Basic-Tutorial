@@ -1,0 +1,10 @@
+ Feature Based Localisation
+ 
+ On this scripts the goal is to localise a moving robot that can perceive discrete lankmarks or obstacle whose ubication is assumed to be 
+ known with sufficient accuracy.
+ 
+ Within the repository this section is:
+ 
+ - [x] Localisation Only
+ - [ ] Mapping Only
+ - [ ] Simultaneous Localisation and Mapping
