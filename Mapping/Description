@@ -1,0 +1,10 @@
+ Feature Based Mapping
+ 
+ On this scripts the goal is to use a moving robot, whose ubication we assume accurate and continuously available, to map discrete lankmarks or obstacles
+ using an Extended Kalman Filter.
+ 
+ Within the repository this section is:
+ 
+ - [ ] Localisation Only
+ - [x] Mapping Only
+ - [ ] Simultaneous Localisation and Mapping
